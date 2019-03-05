@@ -42,5 +42,5 @@ and the resulting PDF file has a similar pattern (_1935-01-03-0001.pdf_).
 The XML file and output PDF file can be specified directly if different
 naming conventions are used.
 
-art rhyno [ourdigitalworld/cdigs] (https://github.com/artunit)
+art rhyno [ourdigitalworld/cdigs](https://github.com/artunit)
 
