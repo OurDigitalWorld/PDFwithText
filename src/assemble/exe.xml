@@ -6,14 +6,11 @@
   <includeBaseDirectory>false</includeBaseDirectory>
   <dependencySets>
     <dependencySet>
-      <outputDirectory></outputDirectory>
-      <outputFileNameMapping></outputFileNameMapping>
       <unpack>true</unpack>
       <scope>runtime</scope>
       <includes>
         <include>commons-lang:commons-lang</include>
         <include>commons-cli:commons-cli</include>
-        <include>commons-logging:commons-logging</include>
         <include>com.itextpdf:itextpdf</include>
       </includes>
     </dependencySet>
